@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     println("======Functions: default values========")
     displaySeparator('#', 5)
     displaySeparator('#')
