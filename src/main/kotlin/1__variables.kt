@@ -1,7 +1,6 @@
 fun main() {
     println("======Variables========")
     println("Hello World!")
-
 //    val/var myValue: Type = someValue
 //    var - mutable
 //    val - immutable
